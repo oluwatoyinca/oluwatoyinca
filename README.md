@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oluwatoyinca
-- 🌱 I’m currently learning React
+<!-- - 🌱 I’m currently learning React -->
 <!---
 - 👀 I’m interested in 
 
