@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oluwatoyinca
+- 👋 Hi, I’m Oluwatoyin Amushan. JavaScript Enthusiast and Python noob.
 <!-- - 🌱 I’m currently learning React -->
 <!---
 - 👀 I’m interested in 
